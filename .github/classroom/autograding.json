@@ -1,0 +1,234 @@
+{
+  "tests": [
+    {
+      "name": "Test Q1_1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_1.py::test_converter_lista_para_string_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q1_2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_1.py::test_converter_lista_para_string_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q1_3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_1.py::test_converter_lista_para_string_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q1_4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_1.py::test_converter_lista_para_string_4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q1_5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_1.py::test_converter_lista_para_string_5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q2_1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_2.py::test_pares_e_impares_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test Q2_2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_2.py::test_pares_e_impares_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test Q2_3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_2.py::test_pares_e_impares_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test Q2_4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_2.py::test_pares_e_impares_4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test Q3_1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_3.py::test_cria_matriz_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q3_2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_3.py::test_cria_matriz_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q3_3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_3.py::test_cria_matriz_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q3_4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_3.py::test_cria_matriz_4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q3_5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_3.py::test_cria_matriz_5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q4_1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_4.py::test_filtrar_palavras_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test Q4_2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_4.py::test_filtrar_palavras_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test Q4_3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_4.py::test_filtrar_palavras_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test Q4_4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_4.py::test_filtrar_palavras_4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test Q5_1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_5.py::test_eh_perfeito_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q5_2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_5.py::test_eh_perfeito_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q5_3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_5.py::test_eh_perfeito_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q5_4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_5.py::test_eh_perfeito_4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Test Q5_5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv test_questao_5.py::test_eh_perfeito_5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    }
+  ]
+}
